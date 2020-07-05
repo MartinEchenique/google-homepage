@@ -9,6 +9,18 @@ a{
     font-size: 12px;
 
 }
+#sign-button{
+    background-color:#1B8BED;
+    border-style: none;
+    color:whitesmoke;
+    height: 28px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
 .header-element{
     display:flex;
     flex-direction: row;
